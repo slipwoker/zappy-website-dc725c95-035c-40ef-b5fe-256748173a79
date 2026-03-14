@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Hotwash מציעה שירותי שטיפת רכב ודיטיילינג פרימיום עם קביעת תורים נוחה. טיפול מקצועי לרכבי יוקרה שמחזיר את הברק המקורי לרכב שלך
+
+### שירותים
+https://example.com/services
+גלה את מגוון שירותי השטיפה והדיטיילינג המתקדמים שלנו: ליטוש, ציפוי קרמי, ניקוי פנים מעמיק ועוד. טיפול מושלם לכל סוג רכב
+
+### תמחור
+https://example.com/pricing
+עיין במחירון המלא שלנו לשירותי שטיפה ודיטיילינג. חבילות מותאמות אישית לכל תקציב, ללא עלויות נסתרות. קבל הצעת מחיר עכשיו
+
+### צור קשר
+https://example.com/contact
+צור קשר עם Hotwash וקבע תור נוח לשטיפת הרכב שלך. זמינות מיידית, שירות מהיר ומקצועי. התקשר עכשיו או הזמן דרך האתר
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
